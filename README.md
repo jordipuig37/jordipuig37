@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Jordi 👋
+
+I'm a [Data Science and Engineering][dse] student at Universitat Politècnica de Catalunya (Barcelona). 
+
+<br />
+<br />
+
+I don't really know what to put here but give me some more time and I will upgrade this ;)
+
+[linkedin]: https://www.linkedin.com/in/jordi-puig-rabat-a21360134/
+[dse]: https://dse.upc.edu/en
 
 <!--
 **jordipuig37/jordipuig37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
