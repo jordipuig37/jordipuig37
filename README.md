@@ -13,7 +13,7 @@ My main interests related to my fild of study are:
 
 But I also enjoy:
 
-* Paying guitar and other instruments
+* Play guitar and other instruments
 
 * Chess
 
