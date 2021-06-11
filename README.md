@@ -15,5 +15,5 @@ __Contact information__
 * Email: jordipuig37@gmail.com
 * Linkedin: [Jordi Puig Rabat][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jordi-puig-rabat-a21360134/
+[linkedin]: https://www.linkedin.com/in/jordi-puig-rabat/
 [dse]: https://dse.upc.edu/en
