@@ -1,4 +1,4 @@
-### Hi there! I'm Jordi 👋
+## Hi there! I'm Jordi 👋
 
 I'm a Data Engineer with a passion for cloud computing, data warehousing, and Python. Right now, I'm teaching programming at UPC University in Barcelona while working on exciting projects in the data engineering space.
 
@@ -6,16 +6,16 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
 
 * __Programming Languages:__ Python, SQL, Scala & others
 * __Cloud Platforms:__ Azure (DP-203)
-* __Data Warehousing:__ Azure SQL Data Warehouse, Snowflake
+* __Data Warehousing:__ Azure Synapse, Snowflake
 * __ETL tools__: Azure Data Factory, SSIS, IICS, Fivetran, dbt
 
-## Certifications
+### Certifications
 
 * Azure DP-203: Data Engineering on Microsoft Azure
 
 <img src="microsoft-certified-azure-data-engineer-associate.png" width="100">
 
-### Contact information
+## Contact information
 
 * Email: jordipuig37@gmail.com
 * Linkedin: [Jordi Puig Rabat][linkedin]
