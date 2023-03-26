@@ -1,15 +1,21 @@
 ### Hi there! I'm Jordi 👋
 
-I graduated from Universitat Politècnica de Catalunya in 2022 with a degree in Data Science and Engineering. My GitHub page works as a portfolio, so I'm happy to share my projects and skills. I mainly program in Python, but I also have some experience with other languages.
+I'm a Data Engineer with a passion for cloud computing, data warehousing, and Python. Right now, I'm teaching programming at UPC University in Barcelona while working on exciting projects in the data engineering space.
 
-My main interests are:
+## My Skills as a Data Engineer
 
-* Machine Learning and Deep Learning
-* Data Visualization and communication
+* __Programming Languages:__ Python, SQL, Scala & others
+* __Cloud Platforms:__ Azure (DP-203)
+* __Data Warehousing:__ Azure SQL Data Warehouse, Snowflake
+* __ETL tools__: Azure Data Factory, SSIS, IICS, Fivetran, dbt
 
-My goal is to develop applications, products or services to bring value to the world. You will find that most of my repos are university related; luckily, in the future, I'll be able to develop my own projects and share them here.
+## Certifications
 
-__Contact information__
+* Azure DP-203: Data Engineering on Microsoft Azure
+
+<img src="microsoft-certified-azure-data-engineer-associate.png" width="100">
+
+### Contact information
 
 * Email: jordipuig37@gmail.com
 * Linkedin: [Jordi Puig Rabat][linkedin]
