@@ -15,12 +15,17 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
 * ThePower Business School: Power MBA
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="microsoft-certified-azure-data-engineer-associate.png"
-         alt="Microsoft Certified Azure Data Engineer Associate"
-         height="125">
-    <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/99021844314073.png"
-         alt="The Power MBA Certificate"
-         height="125">
+    <a target="_blank" href = "https://www.credly.com/badges/35e7e7d1-7e96-4d48-964d-99267b758f07/public_url">
+        <img src="microsoft-certified-azure-data-engineer-associate.png"
+            alt="Microsoft Certified Azure Data Engineer Associate"
+            height="125"
+            style="margin-right: 20px;">
+    </a>
+    <a target="_blank" href="https://verified.sertifier.com/es/verify/99021844314073/?ref=email">
+        <img src="the-power-mba-certificate.png"
+             alt="The Power MBA Certificate"
+             height="125">
+    </a>
 </div>
 
 
