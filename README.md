@@ -15,6 +15,25 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
 
 <img src="microsoft-certified-azure-data-engineer-associate.png" width="100">
 
+* ThePower Business School: Power MBA
+
+<a target="_blank" href="https://verified.sertifier.com/es/verify/99021844314073/?ref=email">
+    <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/99021844314073.png"
+         alt="The Power MBA Certificate"
+         width="200" >
+</a>
+
+#### In progress
+
+* [ ] Snowflake: SnowPro® Core Certification
+
+---
+### Programming Languages
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordipuig37&show_icons=true&locale=en&layout=compact" alt="programminglanguages" />
+
+---
+
 ## Contact information
 
 * Email: jordipuig37@gmail.com
