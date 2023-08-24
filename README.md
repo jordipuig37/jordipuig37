@@ -12,16 +12,17 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
 ### Certifications
 
 * Azure DP-203: Data Engineering on Microsoft Azure
-
-<img src="microsoft-certified-azure-data-engineer-associate.png" width="100">
-
 * ThePower Business School: Power MBA
 
-<a target="_blank" href="https://verified.sertifier.com/es/verify/99021844314073/?ref=email">
+<div style="display: flex; align-items: flex-start;">
+    <img src="microsoft-certified-azure-data-engineer-associate.png"
+         alt="Microsoft Certified Azure Data Engineer Associate"
+         height="125">
     <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/99021844314073.png"
          alt="The Power MBA Certificate"
-         width="200" >
-</a>
+         height="125">
+</div>
+
 
 #### In progress
 
