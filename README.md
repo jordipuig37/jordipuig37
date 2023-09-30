@@ -8,6 +8,7 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
 * __Cloud Platforms:__ Azure (DP-203)
 * __Data Warehousing:__ Azure Synapse, Snowflake
 * __ETL tools__: Azure Data Factory, SSIS, IICS, Fivetran, dbt
+* __Dashboard and visualization__: PowerBI (custom visuals)
 
 ### Certifications
 
