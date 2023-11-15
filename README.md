@@ -13,6 +13,7 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
 
 * Azure DP-203: Data Engineering on Microsoft Azure
 * ThePower Business School: Power MBA
+* Hands-On Essentials: Data Engineering Workshop (progress for SnowPro Core)
 
 <div style="display: flex; align-items: flex-start;">
     <a target="_blank" href = "https://www.credly.com/badges/35e7e7d1-7e96-4d48-964d-99267b758f07/public_url">
@@ -20,6 +21,11 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
             alt="Microsoft Certified Azure Data Engineer Associate"
             height="125"
             style="margin-right: 20px;">
+    </a>
+    <a target="_blank" href="https://achieve.snowflake.com/ff5753f1-ea08-421e-9cb8-383495dc6671#gs.0yo4g5">
+        <img src="snowflake-data-engineering-hands-on.png"
+             alt="Hands-On Essentials: Data Engineering Workshop"
+             height="140">
     </a>
     <a target="_blank" href="https://verified.sertifier.com/es/verify/99021844314073/?ref=email">
         <img src="the-power-mba-certificate.png"
@@ -29,9 +35,10 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
 </div>
 
 
-#### In progress
+#### In progress / Next steps
 
 * [ ] Snowflake: SnowPro® Core Certification
+* [ ] AWS Certified Solutions Architect - Associate
 
 ---
 ### Programming Languages
