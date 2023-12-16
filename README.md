@@ -23,10 +23,10 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and da
             height="125"
             style="margin-right: 20px;">
     </a>
-    <a target="_blank" href="https://achieve.snowflake.com/ff5753f1-ea08-421e-9cb8-383495dc6671#gs.0yo4g5">
+    <a target="_blank" href="https://achieve.snowflake.com/7a2bcb51-7023-4c96-ae18-1dcdabc23888#gs.1o929v">
         <img src="snowflake-snowpro-core.png"
              alt="Hands-On Essentials: Data Engineering Workshop"
-             height="150">
+             height="130">
     </a>
     <a target="_blank" href="https://verified.sertifier.com/es/verify/99021844314073/?ref=email">
         <img src="the-power-mba-certificate.png"
