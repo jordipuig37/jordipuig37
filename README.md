@@ -1,20 +1,20 @@
 ## Hi there! I'm Jordi 👋
 
-I'm a Data Engineer with a passion for cloud computing, data warehousing, and Python. Right now, I'm teaching programming at UPC University in Barcelona while working on exciting projects in the data engineering space.
+I'm a Data Engineer with a passion for cloud computing, data warehousing, and data architecture.
 
 ## My Skills as a Data Engineer
 
 * __Programming Languages:__ Python, SQL, Scala & others
 * __Cloud Platforms:__ Azure (DP-203)
-* __Data Warehousing:__ Azure Synapse, Snowflake
-* __ETL tools__: Azure Data Factory, SSIS, IICS, Fivetran, dbt
+* __Data Warehousing:__ Azure Synapse, Snowflake (Snowpro Core)
+* __ETL/ELT tools__: Azure Data Factory, Fivetran, dbt
 * __Dashboard and visualization__: PowerBI (custom visuals)
 
 ### Certifications
 
 * Azure DP-203: Data Engineering on Microsoft Azure
 * ThePower Business School: Power MBA
-* Hands-On Essentials: Data Engineering Workshop (progress for SnowPro Core)
+* Snowflake SnowPro Core Certification
 
 <div style="display: flex; align-items: flex-start;">
     <a target="_blank" href = "https://www.credly.com/badges/35e7e7d1-7e96-4d48-964d-99267b758f07/public_url">
@@ -24,9 +24,9 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
             style="margin-right: 20px;">
     </a>
     <a target="_blank" href="https://achieve.snowflake.com/ff5753f1-ea08-421e-9cb8-383495dc6671#gs.0yo4g5">
-        <img src="snowflake-data-engineering-hands-on.png"
+        <img src="snowflake-snowpro-core.png"
              alt="Hands-On Essentials: Data Engineering Workshop"
-             height="140">
+             height="150">
     </a>
     <a target="_blank" href="https://verified.sertifier.com/es/verify/99021844314073/?ref=email">
         <img src="the-power-mba-certificate.png"
@@ -38,7 +38,10 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and Py
 
 #### In progress / Next steps
 
-* [ ] Snowflake: SnowPro® Core Certification
+* [x] Snowflake: SnowPro® Core Certification
+* [ ] Microsoft Certified: Azure Administrator Associate
+* [ ] Microsoft Certified: Azure Security Engineer Associate
+* [ ] Microsoft Certified: Azure Solutions Architect Expert
 * [ ] AWS Certified Solutions Architect - Associate
 
 ---
