@@ -6,7 +6,7 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and da
 
 * __Programming Languages:__ Python, SQL, Scala & others
 * __Cloud Platforms:__ Azure (DP-203)
-* __Data Warehousing:__ Azure Synapse, Snowflake (Snowpro Core)
+* __Data Warehouse/Lakehouse:__ Azure Synapse, Snowflake, Databricks
 * __ETL/ELT tools__: Azure Data Factory, Fivetran, dbt
 * __Dashboard and visualization__: PowerBI (custom visuals)
 
@@ -15,6 +15,7 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and da
 * Azure DP-203: Data Engineering on Microsoft Azure
 * ThePower Business School: Power MBA
 * Snowflake SnowPro Core Certification
+* Databricks Lakehouse Fundamentals
 
 <div style="display: flex; align-items: flex-start;">
     <a target="_blank" href = "https://www.credly.com/badges/35e7e7d1-7e96-4d48-964d-99267b758f07/public_url">
@@ -27,6 +28,12 @@ I'm a Data Engineer with a passion for cloud computing, data warehousing, and da
         <img src="snowflake-snowpro-core.png"
              alt="Hands-On Essentials: Data Engineering Workshop"
              height="130">
+    </a>
+    </a>
+    <a target="_blank" href="https://verified.sertifier.com/es/verify/99021844314073/?ref=email">
+        <img src="fundamentals-badge-lakehouse.svg"
+             alt="Databricks Lakehouse Fundamentals"
+             height="135" width="135">
     </a>
     <a target="_blank" href="https://verified.sertifier.com/es/verify/99021844314073/?ref=email">
         <img src="the-power-mba-certificate.png"
